@@ -9,6 +9,7 @@ To support older children, the sky images will appear more realistic to include 
 ## Minimum Use Case: Supporting Default Locations
 
 Upon launching the application, 6 images appear representing the default locations supported:
+
 - London
 - NYC
 - San Francisco
@@ -22,7 +23,9 @@ For example, if a user selects London and the current time in London is 08:00 GM
 ## Admin Use Cases
 
 An admin UI will need to be created to set up user profiles and possibly manage accounts if the application is monetized or security settings implemented.
+
 ### Profiles
+
 A bare minimum profile will have a participant name and location.
 Stretch goal: allow an admin to upload an image of multiple participants
 Stretch goal: allow a participant to manage user name, image, and location for self
@@ -30,3 +33,7 @@ Stretch goal: allow a participant to manage user name, image, and location for s
 ## Notifications
 
 Participants will receive notifications when someone has decorated their sky.
+
+## Links
+
+https://www.timeanddate.com/astronomy/night/uk/london
