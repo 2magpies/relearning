@@ -36,5 +36,5 @@ Participants will receive notifications when someone has decorated their sky.
 
 ## Links
 
-https://www.timeanddate.com/astronomy/night/uk/london
-https://dev.timeanddate.com/
+- https://www.timeanddate.com/astronomy/night/uk/london
+- https://dev.timeanddate.com/
