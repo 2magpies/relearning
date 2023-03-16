@@ -29,4 +29,4 @@ Stretch goal: allow a participant to manage user name, image, and location for s
 
 ## Notifications
 
-Participants will receive notifications when someone has decorated their sky
+Participants will receive notifications when someone has decorated their sky.
