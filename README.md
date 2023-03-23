@@ -1,10 +1,12 @@
 # under-the-same-sky
 
-A mobile application to connect members of remotely distributed families by depicting the sky where each family member is currently located.
+Under-the-Same-Sky is the working title of mobile application designed to connect members of remotely distributed families by depicting the sky where each family member is currently located.
+
+In addition to being a social application, educational use cases supporting interactive learning of astronomy will be supported.
 
 Initially, the application will support the scenario of a toddler and grandparent viewing and exchanging sky decorations, such as sending each other balloons, kites, UFOs, planes, or adding stars to the night sky. The sky, its elements, and decorations can be very simple drawings.
 
-To support older children, the sky images will appear more realistic to include constellations and to indicate where the sun or moon is in the sky.
+To support older children, the sky images will appear more realistic to include constellations and to indicate where celestial objects are in the sky.
 
 ## Minimum Use Case: Supporting Default Locations
 
